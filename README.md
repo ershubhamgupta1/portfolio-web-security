@@ -44,6 +44,8 @@ The project includes examples of unsafe practices and recommendations for securi
 
 
 ### Project Structure
+
+```
 src/
 ├── App.js                          # Main application file
 ├── xss-attacks/
@@ -53,6 +55,8 @@ src/
 ├── ClickJaking.js                  # Clickjacking example
 ├── logo.svg                        # React logo
 ├── App.css                         # Styling for the app
+
+```
 
 ### Security Recommendations
 To prevent these security issues in a real-world application, here are some recommendations:
